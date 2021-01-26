@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ☆ 𝐈'𝐦 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 & 𝐂# 𝐭𝐡𝐢𝐬 𝐲𝐞𝐚𝐫 ☆
 
-☆ 𝐈'𝐦 𝐚𝐥𝐬𝐨 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐩𝐞𝐧𝐭𝐞𝐬𝐭 ☆
+☆ 𝐈'𝐦 𝐚𝐥𝐬𝐨 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐩𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 ☆
 <!--
 **ellyzabe8/ellyzabe8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
