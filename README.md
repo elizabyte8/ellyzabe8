@@ -1,16 +1,12 @@
-Hello there!🖖🏻 👁‍
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!🖖🏻 👁‍
 
-I'm Elizabeth & I have been learning programming languages for 1 year & some months.
+𝐈'𝐦 𝐄𝐥𝐢𝐳𝐚𝐛𝐞𝐭𝐡 & 𝐈 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐟𝐨𝐫 𝟏 𝐲𝐞𝐚𝐫 & 𝐬𝐨𝐦𝐞 𝐦𝐨𝐧𝐭𝐡𝐬.
 
+𝐈 𝐟𝐞𝐞𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭 𝐢𝐧 𝐂 & 𝐂++ 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (𝐂 𝐢𝐬 𝐦𝐲 𝐟𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝟎𝐧𝐞).
 
-I feel confident in C & C++ languages (C is my favourite 0ne).
+𝐈'𝐦 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 & 𝐂# 𝐭𝐡𝐢𝐬 𝐲𝐞𝐚𝐫.
 
-
-I'm studying Java & C# this year.
-
-
-I'm also interested in pentest.
-
+𝐈'𝐦 𝐚𝐥𝐬𝐨 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐩𝐞𝐧𝐭𝐞𝐬𝐭.
 <!--
 **ellyzabe8/ellyzabe8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
