@@ -3,7 +3,7 @@ Hello there!🖖🏻 👁‍
 I'm Elizabeth & I have been learning programming languages for 1 year & some months.
 
 
-I feel confident at C & C++ languages (C is my favourite 0ne).
+I feel confident in C & C++ languages (C is my favourite 0ne).
 
 
 I'm studying Java & C# this year.
