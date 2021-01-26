@@ -4,14 +4,14 @@ ________________________________________________________________________________
 
 ☆ 𝐈 𝐟𝐞𝐞𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭 𝐢𝐧 𝐂 & 𝐂++ 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (𝐂 𝐢𝐬 𝐦𝐲 𝐟𝐚𝐯𝐨𝐮𝐫𝐢𝐭𝐞 𝟎𝐧𝐞) ☆
 
-☆ 𝐈'𝐦 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 & 𝐂# 𝐭𝐡𝐢𝐬 𝐲𝐞𝐚𝐫 ☆
+☆ 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 & 𝐂# ☆
 
 ☆ 𝐈'𝐦 𝐚𝐥𝐬𝐨 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐩𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 ☆
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyzabe8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ellyzabe8&show_icons=true&theme=synthwave)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ellyzabe8&show_icons=true&theme=cobalt)
 <!--
 **ellyzabe8/ellyzabe8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
