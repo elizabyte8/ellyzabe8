@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ☆ 𝐈'𝐦 𝐚𝐥𝐬𝐨 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐩𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 ☆
 
-
+𝐓𝐡𝐚𝐭'𝐬 𝐚𝐥𝐥 (𝐟𝐨𝐫 𝐧𝐨𝐰 ;𝐃)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellyzabe8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ellyzabe8&show_icons=true&theme=cobalt)
